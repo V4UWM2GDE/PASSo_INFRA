@@ -10,4 +10,4 @@ PASSo infrastructure deliverables
   
 </HU>
 
-AWS link: [PASSo on AWS](http://1.1.1.1:8080/)
+AWS link: [PASSo on AWS](http://54.159.223.89:8080/)
